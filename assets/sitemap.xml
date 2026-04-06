@@ -1,674 +1,557 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.sccodeworks.com</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/about</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/solution</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/solution/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/industries</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/industries/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/warehouse-management-system</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/warehouse-management-system/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/resources</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/resources/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/resources-newsletters</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/resources-newsletters/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/resources-videos</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/resources-videos/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/blogs-list</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/blogs-list/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/casestudies-list</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/casestudies-list/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/wms</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/wms/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/contact-us</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/contact-us/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/subscribe-us</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/subscribe-us/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/privacy-policy</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/privacy-policy/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/white-papers</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/white-papers/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/edi-for-3pls</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/edi-for-3pls/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/streamline-assembly-operations</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/streamline-assembly-operations/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/next-level-picking-efficiencies</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/next-level-picking-efficiencies/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/5-key-benefit-inventory-solutions-modern-warehouses</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/5-key-benefit-inventory-solutions-modern-warehouses/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/dock-scheduler-streamlines-operations</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/dock-scheduler-streamlines-operations/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/tbms-revolutionizes-brokerage</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/tbms-revolutionizes-brokerage/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/3pl-4pl-5pl-key-differences</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/3pl-4pl-5pl-key-differences/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/sc-codeworks-hosted-solution</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/sc-codeworks-hosted-solution/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/consolidating-systems-basic-integration-concepts</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/consolidating-systems-basic-integration-concepts/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/is-your-wms-leaving-3pl-money-on-the-table</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/is-your-wms-leaving-3pl-money-on-the-table/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/real-time-reporting-for-daily-operational-challenges</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/real-time-reporting-for-daily-operational-challenges/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/4-reasons-to-attend-swa-conference</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/4-reasons-to-attend-swa-conference/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/tips-to-maximize-your-space-utilization</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/tips-to-maximize-your-space-utilization/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/wms-vs.-erp</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/wms-vs.-erp/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/preparing-for-peak-season</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/preparing-for-peak-season/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/mission-critical-wms-features</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/mission-critical-wms-features/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/2024-werc-annual-conference</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/2024-werc-annual-conference/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/looking-to-add-update-wms</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/looking-to-add-update-wms/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/the-impact-of-rising-warehouse-rents-on-supply-chains-3pls</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/the-impact-of-rising-warehouse-rents-on-supply-chains-3pls/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/key-considerations-when-warehousing-hazmat</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/key-considerations-when-warehousing-hazmat/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/should-you-automate-your-labor-plan</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/should-you-automate-your-labor-plan/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/annual-user-meeting-powerful-partnerships</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/annual-user-meeting-powerful-partnerships/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/how-the-right-wms-can-help-you-fight-rising-costs</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/how-the-right-wms-can-help-you-fight-rising-costs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/4-great-reasons-to-attend-the-iwla-annual-convention</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/4-great-reasons-to-attend-the-iwla-annual-convention/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/regional-vs.-centralized-distribution</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/regional-vs.-centralized-distribution/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/4-key-takeaways-nextgen-supplychain-conference</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/4-key-takeaways-nextgen-supplychain-conference/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/blog-advisory-board-established</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/blog-advisory-board-established/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/guide-to-tms-v-tbms</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/guide-to-tms-v-tbms/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/4-reasons-we-love-user-conference</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/4-reasons-we-love-user-conference/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/data-analytics-for-logistics</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/data-analytics-for-logistics/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/making-the-case-rf</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/making-the-case-rf/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/guide-to-roi-with-edi</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/guide-to-roi-with-edi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/supply-chain-resiliency</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/supply-chain-resiliency/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/dashboards-empower-3pls</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/dashboards-empower-3pls/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/yms-day-in-the-life</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/yms-day-in-the-life/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/4-key-takeaways-iwla-2025</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/4-key-takeaways-iwla-2025/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/people-before-tech</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/people-before-tech/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/embrace-emerging-technologies</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/embrace-emerging-technologies/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/instant-insights-warehouse-space</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/instant-insights-warehouse-space/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/metrics-that-improve-warehouse-performance</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/metrics-that-improve-warehouse-performance/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/10-game-changing-benefits</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/10-game-changing-benefits/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/scc-ultimate-guide-to-wms</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/scc-ultimate-guide-to-wms/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/labor-management</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/labor-management/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/warehouse-trends-to-watch</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/warehouse-trends-to-watch/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/7-wms-features-the-drive-real-results</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/7-wms-features-the-drive-real-results/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/5-smart-moves-to-accelerate-warehouse-fulfillment</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/5-smart-moves-to-accelerate-warehouse-fulfillment/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/the-hidden-costs-of-manual-warehousing</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/the-hidden-costs-of-manual-warehousing/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/beyond-robots-the-real-role-of-ai-in-modern-warehouses</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/beyond-robots-the-real-role-of-ai-in-modern-warehouses/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/4-highlights-from-sc-codeworks-at-the-swa-convention</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/4-highlights-from-sc-codeworks-at-the-swa-convention/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/top-5-operational-bottlenecks-in-warehousing</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/top-5-operational-bottlenecks-in-warehousing/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/donot-let-your-wms-hold-you-back-key-signs-you-need-an-upgrade</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/donot-let-your-wms-hold-you-back-key-signs-you-need-an-upgrade/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/wms-realities-you-need-super-users</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/wms-realities-you-need-super-users/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/kpi-playbook-for-smarter-warehousing</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/kpi-playbook-for-smarter-warehousing/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/post-holiday-returns-is-your-warehouse-ready</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/post-holiday-returns-is-your-warehouse-ready/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/wms-realities-the-demo-is-the-easy-part-what-matters-more</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/wms-realities-the-demo-is-the-easy-part-what-matters-more/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/customization-is-not-a-dirty-word-but-it-can-be-a-trap</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/customization-is-not-a-dirty-word-but-it-can-be-a-trap/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/when-systems-dont-talk-people-suffer-here-s-how-to-change-that</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/when-systems-dont-talk-people-suffer-here-s-how-to-change-that/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/warehouse-of-2026-draft-what-smart-operations-are-preparing-for-now</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/warehouse-of-2026-draft-what-smart-operations-are-preparing-for-now/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/release-of-codeworks-enterprise-4-wms-advancing-ai-driven-warehouse-operations</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/release-of-codeworks-enterprise-4-wms-advancing-ai-driven-warehouse-operations/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/wms-realities-you-can-outgrow-a-wms-faster-than-you-think</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/wms-realities-you-can-outgrow-a-wms-faster-than-you-think/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/rfid-in-the-supply-chain-from-emerging-tech-to-strategic-enabler</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/rfid-in-the-supply-chain-from-emerging-tech-to-strategic-enabler/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/predictive-analytics-will-be-the-next-non-negotiable-in-3pl-wms</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/predictive-analytics-will-be-the-next-non-negotiable-in-3pl-wms/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/wms-dashboard-realities-is-it-actually-helping</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/wms-dashboard-realities-is-it-actually-helping/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/how-to-choose-wms</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/how-to-choose-wms/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/wms-implementation-best-practices</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/wms-implementation-best-practices/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/sap-wms-integration</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/sap-wms-integration/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/scc-ultimate-guide-to-the-wms</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/batch-picking-automation-ecommerce-fulfillment/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/onboarding-transformation/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/labor-planning-software-3pl-food-distribution/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/warehouse-kitting-software-automotive-3pl/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/competitive-value/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/time-saving/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/growing-logistics/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/voice-picking-wms-productivity-increase/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/time-savings-with-codeworks/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/seamless-sync-with-edi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/wms-implementation-case-study-manufacturing/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/scan-qr-technology-repack/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/e-commerce-fulfillment-transformation/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/moving-to-paperless-warehousing/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/lessons-from-the-field–part-1-have-an-agenda/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/reducing-order-fulfillment-time/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/lessons-from-the-field–part-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/automating-contractual-rate-increases/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/the-engine-project-under-the-gun-a-single-push-solution/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/lessons-from-the-field–part-3-trust-is-built-on-the-floor/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/managing-the-world-of-ucc-128-compliance/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/layer-picking-for-partial-pallet-fulfillment/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/3pl-unified-verification-reduces-shipping-errors/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/ecommerce-fulfillment-integrated-shipping-3pl/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/3pl-warehousing/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/batch-picking-automation-ecommerce-fulfillment</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/onboarding-transformation</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/labor-planning-software-3pl-food-distribution</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/warehouse-kitting-software-automotive-3pl</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/competitive-value</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/time-saving</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/growing-logistics</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/voice-picking-wms-productivity-increase</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/time-savings-with-codeworks</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/seamless-sync-with-edi</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/wms-implementation-case-study-manufacturing</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/scan-qr-technology-repack</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/e-commerce-fulfillment-transformation</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/moving-to-paperless-warehousing</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/lessons-from-the-field–part-1-have-an-agenda</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/reducing-order-fulfillment-time</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/lessons-from-the-field–part-2</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/automating-contractual-rate-increases</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/the-engine-project-under-the-gun-a-single-push-solution</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/lessons-from-the-field–part-3-trust-is-built-on-the-floor</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/managing-the-world-of-ucc-128-compliance</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/layer-picking-for-partial-pallet-fulfillment</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/3pl-unified-verification-reduces-shipping-errors</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/ecommerce-fulfillment-integrated-shipping-3pl</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/3pl-warehousing</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/manufacturing-warehouses/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/manufacturing-warehouses</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/distribution-and-warehouses/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/distribution-and-warehouses</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/e-commerce-dtc-fulfillment/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/e-commerce-dtc-fulfillment</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/government-warehousing/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.sccodeworks.com/government-warehousing</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.sccodeworks.com/asset-management</loc>
-    <lastmod>2026-04-03</lastmod>
+    <loc>https://www.sccodeworks.com/asset-management/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
