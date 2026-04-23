@@ -76,6 +76,86 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.sccodeworks.com/faq/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/glossary/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/multi-client-billing-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/15-minute-wms-health-check/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/state-of-3pl-wms-2026/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/wms-pricing/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/wms-implementation/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/rfp-template/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/wms-roi-calculator/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/switching-from-extensiv/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/sc-codeworks-vs-extensiv/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/sc-codeworks-vs-softeon/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/sc-codeworks-vs-manhattan/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/3pl-central-alternatives/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/best-wms-for-3pl/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/idc-chemical-3pl-case-study/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.sccodeworks.com/edi-for-3pls/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -391,6 +471,16 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.sccodeworks.com/how-3pls-evaluate-wms/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/3pl-billing-leakage-audit/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.sccodeworks.com/how-to-choose-wms/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -522,6 +612,16 @@
   </url>
   <url>
     <loc>https://www.sccodeworks.com/ecommerce-fulfillment-integrated-shipping-3pl/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/rfid-supply-chain-compliance-3pl/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.sccodeworks.com/scaling-fulfillment-without-scaling-cost/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

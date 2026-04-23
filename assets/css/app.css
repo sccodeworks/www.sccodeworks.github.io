@@ -34967,7 +34967,86 @@ blockquote .author {
     padding: 10px 0 20px;
 }
 .blog-details-area {
-    margin-top: 80px !important;
+    margin-top: 110px !important;
+}
+.blog-details-area .blog-title {
+    margin-bottom: 6px !important;
+    /* Per Amy 2026-04-23 Loom 2: bump case-study title ~2pt for prominence. */
+    font-size: 40px !important;
+    line-height: 1.2 !important;
+}
+@media only screen and (max-width: 767px) {
+    .blog-details-area .blog-title {
+        font-size: 28px !important;
+    }
+}
+.blog-details-area .blog-meta {
+    padding-bottom: 0 !important;
+    margin: 0 !important;
+    align-items: center;
+    gap: 12px;
+}
+/* Override global `.blog-author { padding: 70px 0; display: flex }`
+   which was designed for a large author card with thumbnail — our
+   blog-meta only renders a tiny inline label, so collapse it. */
+.blog-details-area .blog-meta .blog-author {
+    padding: 0 !important;
+    display: inline !important;
+    font-style: italic;
+    color: var(--color-body);
+}
+.blog-details-area .blog-meta time {
+    color: var(--color-body);
+    font-style: normal;
+}
+.blog-details-area .blog-meta__sep {
+    color: var(--color-body);
+    opacity: 0.6;
+}
+/* Case-study CTA banner — prominent, not blends-in like a regular quote block.
+   Added 2026-04-23 per Amy Loom 2: "this should be more of a called out call to action because it kind of blends in." */
+.cs-cta-banner {
+    background: linear-gradient(135deg, var(--color-primary, #1ab69d) 0%, #15a088 100%);
+    color: #fff;
+    padding: 36px 40px;
+    border-radius: 10px;
+    margin: 28px 0;
+    text-align: center;
+    box-shadow: 0 6px 18px rgba(26, 182, 157, 0.22);
+}
+.cs-cta-banner h3 {
+    color: #fff;
+    font-size: 24px;
+    margin: 0 0 10px;
+    font-weight: 700;
+}
+.cs-cta-banner p {
+    color: rgba(255, 255, 255, 0.92);
+    font-size: 16px;
+    line-height: 1.55;
+    margin: 0 auto 20px;
+    max-width: 640px;
+}
+.cs-cta-banner .edu-btn {
+    background: #fff;
+    color: var(--color-primary, #1ab69d);
+    border-color: #fff;
+}
+.cs-cta-banner .edu-btn:hover {
+    background: var(--color-heading, #181818);
+    color: #fff;
+    border-color: var(--color-heading, #181818);
+}
+@media only screen and (max-width: 767px) {
+    .cs-cta-banner { padding: 26px 20px; }
+    .cs-cta-banner h3 { font-size: 19px; }
+}
+.blog-details-area .social-share.icon-transparent.blog {
+    margin-top: 4px !important;
+    margin-bottom: 6px !important;
+}
+.blog-details-area .blog-image {
+    margin-top: 6px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .edu-section-gap {
